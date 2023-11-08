@@ -1,0 +1,17 @@
+C:\Projetos\Project\Aplication\Infra\obj\Debug\net7.0\Infra.csproj.AssemblyReference.cache
+C:\Projetos\Project\Aplication\Infra\obj\Debug\net7.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Project\Aplication\Infra\obj\Debug\net7.0\Infra.AssemblyInfoInputs.cache
+C:\Projetos\Project\Aplication\Infra\obj\Debug\net7.0\Infra.AssemblyInfo.cs
+C:\Projetos\Project\Aplication\Infra\obj\Debug\net7.0\Infra.csproj.CoreCompileInputs.cache
+C:\Projetos\Project\Aplication\Infra\bin\Debug\net7.0\Infra.deps.json
+C:\Projetos\Project\Aplication\Infra\bin\Debug\net7.0\Infra.runtimeconfig.json
+C:\Projetos\Project\Aplication\Infra\bin\Debug\net7.0\Infra.dll
+C:\Projetos\Project\Aplication\Infra\bin\Debug\net7.0\Infra.pdb
+C:\Projetos\Project\Aplication\Infra\bin\Debug\net7.0\Domain.dll
+C:\Projetos\Project\Aplication\Infra\bin\Debug\net7.0\Domain.pdb
+C:\Projetos\Project\Aplication\Infra\obj\Debug\net7.0\Infra.csproj.CopyComplete
+C:\Projetos\Project\Aplication\Infra\obj\Debug\net7.0\Infra.dll
+C:\Projetos\Project\Aplication\Infra\obj\Debug\net7.0\refint\Infra.dll
+C:\Projetos\Project\Aplication\Infra\obj\Debug\net7.0\Infra.pdb
+C:\Projetos\Project\Aplication\Infra\obj\Debug\net7.0\Infra.genruntimeconfig.cache
+C:\Projetos\Project\Aplication\Infra\obj\Debug\net7.0\ref\Infra.dll
