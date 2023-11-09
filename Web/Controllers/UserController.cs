@@ -16,16 +16,16 @@ namespace Web.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult> GetUser() {
+        public async Task<ActionResult<UserResponseDTO>> GetUser() {
             var users = await _userService.GetUsers();
             return Ok(users);
         }
 
         [HttpPost]
-        public async Task<ActionResult> AddUser([FromBody] UserRequestDTO userRequest)
+        public async Task<ActionResult<bool>> AddUser([FromBody] UserRequestDTO userRequest)
         {
-            var users = await _userService.AddUser(userRequest);
-            return Ok(users);
+            await _userService.AddUser(userRequest);
+            return Ok();
         }
     }
 }
